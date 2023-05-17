@@ -1,0 +1,252 @@
+* {
+    padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+header{padding-top: 20px;
+padding-left: 600px;
+padding-bottom: 20px;
+padding-right: 20px;
+}
+
+.sub-menu{
+    display: flex;
+    padding-left: 80%;
+    
+
+    
+
+   
+    
+}
+
+.sub-menu__item
+{
+    display:flex;
+    padding: 10px;
+   
+    
+
+    
+    
+}
+
+.main-nav {
+    margin-top: 10px;
+    padding-left: 0;
+    background-color: black;
+    width: 100%;
+    height: 58px;
+    left: 0px;
+    top: 239px;
+}
+
+.main-nav__item {
+    display:inline-block; justify-content: center;
+padding-left: 120px;
+padding-top: 15px;
+}
+
+.main-nav__item a {color: white; 
+        padding: 15px;
+        text-decoration: none;
+    font-family: 'Thasadith', sans-serif;
+font-size: 24px;
+}
+
+.main-nav__item a:hover {text-decoration: underline;}
+.main-nav__item ::after {content: " | " ;}
+
+.boton{ 
+ 
+    font-family: 'Thasadith', sans-serif;
+    font-size: 24px; 
+    font-style: italic;
+    color: white;
+    text-decoration: none;
+    border: solid white 1px;
+    padding: 5px;
+    border-radius: 12px;
+    margin: 35px;
+   
+    }
+
+.main-banner {
+    padding-top:300px;
+    padding: bottom 300px; 
+    padding-left:200px;
+    padding-right:300;
+    position: absolute;
+    top: 295px;
+    font-family: 'Thasadith', sans-serif;
+    font-size: 24px; 
+    font-style: italic;
+    color: white;
+    margin-top: 30px;
+
+}
+
+
+
+h1{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    font-family: 'Thasadith', sans-serif;
+    font-size: 32px;
+color: black;
+text-align: center;
+}
+.list__item {display:inline-block; justify-content: center;
+    padding-left: 120px;
+    padding-top: 15px;
+    font-family: 'Julius Sans One', sans-serif;}
+
+h2 {font-family: 'Thasadith', sans-serif;
+    font-size: 32px;
+color: black;
+text-align: center;
+padding-top: 80px;
+padding-bottom: 80px;}
+
+.lab{background-color: #AC7A4E;}
+
+.lab__item {display:inline-block; justify-content: center;
+    padding-left: 120px;
+    padding-top: 15px;
+    font-family: 'Julius Sans One', sans-serif;
+color: white;
+font-size: 24ps;}
+
+h3 {padding-top: 80px;
+    padding-bottom: 80px;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 32px;
+color: black;
+text-align: center;
+padding-top: 70px;}
+
+.month{background-color: #E5DED9;}
+
+.month__item{display:inline-block; justify-content: center;
+    padding-left: 120px;
+    padding-top: 15px;
+    font-family: 'Julius Sans One', sans-serif;
+color:black;
+font-size: 24px;}
+
+footer{background-color: #C1B4AF;
+    font-family: 'Julius Sans One', sans-serif;
+    }
+
+.imagen-footer{display: flex;
+justify-content: center;
+}
+
+
+
+
+
+.button-comprar{
+    font-family: 'Thasadith', sans-serif;
+    font-size: 20px; 
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    border-color: black;
+    padding: 15px;
+    margin-bottom: 5%;
+    top: -270px;
+    position: relative;
+    right: 10%;
+    bottom: 50%;
+
+    }
+
+    .direc{
+        padding-right: 80%;
+        text-align: center ;
+        padding-top:10px;
+        bottom: 20%;
+        
+        
+    }
+
+    .direc1{
+        padding-right: 80%;
+        text-align:center ;
+        padding-top: 10px;
+
+    }
+
+
+    
+    .menu-redes{
+        display:inline-block; justify-content: center;
+        padding-left: 900px;
+        padding-top: 15px;
+        right: 90%;
+        text-decoration: none;
+
+    }
+    
+    .menu-redes__item{
+        padding: 20px;
+        text-decoration:none;
+       
+    }
+
+    .contacto{
+        display:inline-block; justify-content: center;
+        padding-left: 10px;
+        padding-top: 15px;
+        right: 90%;
+        text-decoration: none;
+
+    }
+
+    .contacto__item{
+
+        padding: 20px;
+        text-decoration:none;
+
+    }
+
+    .menu-footer{
+
+        display:inline-block; justify-content: center;
+        padding-left: 10px;
+        padding-top: 15px;
+        right: 90%;
+        text-decoration: none;
+
+    }
+
+    .menu-footer__item {
+
+        padding: 20px;
+        text-decoration:none;
+
+    }
+
+    .con{
+
+        padding-right: 80%;
+        text-align: center;
+        padding-top:10px;
+        bottom: 20%;
+
+    }
+
+    .serv{
+
+        padding-right: 80%;
+        text-align: center ;
+        padding-top:10px;
+        bottom: 20%;
+
+    }
+
+   
+
+    
